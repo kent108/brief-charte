@@ -33,6 +33,13 @@
 
 }
 
+p{
+    width: 500px;
+}
+
+section{
+    margin-top: 5rem;
+}
 /* Première version de la mise en page */
 
 /* .column1 .column2{
@@ -89,7 +96,7 @@ input {
     z-index: -1;
   }
   .accordion {
-    margin: 10px;
+    margin-top: 3rem;
     border-radius: 1em;
     overflow: hidden;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
@@ -144,6 +151,10 @@ input {
     border-radius: 14px;
     padding: 1em;
 } */
+
+code{
+    margin-top: 2rem;
+}
 
 .random{
     display: flex;
